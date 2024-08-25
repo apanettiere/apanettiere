@@ -1,14 +1,21 @@
 ## Hi there 👋
 
 I'm a Computer Science student at Oregon State University with a strong passion for programming. I'm actively seeking full-time roles in software development. I'm detail-oriented and eager to contribute my technical skills to a dynamic and challenging work environment. 
-
-### About Me
+### Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,py,mongodb)](https://skillicons.dev)
 
+### About Me
 - 🌟 Specializing in front-end web development, including responsive design, user experience, and web accessibility.
 - 🔧 Solid understanding of version control tools such as Git.
 - 🎓 Holding an Associate of Arts degree from Santa Fe College.
 - 📍 Based in Naples, FL.
+
+### Let’s Work Together
+
+Feel free to contact me for any job opportunities or collaborations. I'm excited to bring my skills in software development and front-end web design to new and challenging projects. Looking forward to connecting!
+
+📫 **How to reach me:** You can reach me at [andpanet@gmail.com].
+
 
 ### Featured Projects
 
@@ -26,12 +33,6 @@ The website was built with a focus on modern design principles, and smooth anima
 
 This portfolio demonstrates a comprehensive web development skill set, featuring a robust web server, user-friendly frontend design, optimized performance, and accessible forms. 
 It integrates Node.js, NPM, and Express for scalable back-end solutions, with JavaScript driving dynamic content and interactive user experiences.
-
-### Let’s Work Together
-
-Feel free to contact me for any job opportunities or collaborations. I'm excited to bring my skills in software development and front-end web design to new and challenging projects. Looking forward to connecting!
-
-📫 **How to reach me:** You can reach me at [andpanet@gmail.com].
 
 ---
 
