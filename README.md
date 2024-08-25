@@ -14,13 +14,13 @@ I'm a Computer Science student at Oregon State University with a strong passion 
 
 Below are some of the projects I’ve worked on. You can check out the code on my GitHub or watch the videos to see them in action.
 
-#### Project 1: Drews Mobile Detailing(#https://github.com/apanettiere/DrewsMobileDetailing)
+#### [Project 1: Drews Mobile Detailing](https://github.com/apanettiere/DrewsMobileDetailing)
 [![Project 1 Video](https://img.youtube.com/vi/jmoW7ABUB7U/0.jpg)](https://youtu.be/jmoW7ABUB7U)
 Drew's Mobile Detailing Overview Drew's Mobile Detailing is a fully responsive, user-friendly website designed and developed to promote and facilitate booking services for a mobile car detailing business. 
 The website was built with a focus on modern design principles, and smooth animations. React: Utilized React for building interactive user interfaces with component-based architecture. Framer-motion: Implemented engaging animations to enhance user experience and brand presence. Tailwind CSS: Leveraged Tailwind CSS for rapid UI development with a focus on responsiveness and customization. Facebook API: Integrated Facebook API to streamline social media interactions and expand the business’s online reach. 
 
 
-#### Project 2: CS290 Portfolio Project(#https://github.com/apanettiere/CS290-Portfolio-Project-)
+#### [Project 2: CS290 Portfolio Project](https://github.com/apanettiere/CS290-Portfolio-Project-)
 [![Project 2 Video](https://img.youtube.com/vi/r5O8XvvA4FA/0.jpg)](https://youtu.be/r5O8XvvA4FA)
 
 This portfolio demonstrates a comprehensive web development skill set, featuring a robust web server, user-friendly frontend design, optimized performance, and accessible forms. 
