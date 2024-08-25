@@ -14,13 +14,13 @@ I'm a Computer Science student at Oregon State University with a strong passion 
 
 Below are some of the projects I’ve worked on. You can check out the code on my GitHub or watch the videos to see them in action.
 
-#### Project 1: [Your Project Name](#)
-[![Project 1 Video]](https://youtu.be/jmoW7ABUB7U)
+#### Project 1: Drews Mobile Detailing(#)
+[![Project 1 Video](https://img.youtube.com/vi/jmoW7ABUB7U/0.jpg)](https://youtu.be/jmoW7ABUB7U)
 
 
 
-#### Project 2: [Your Project Name](#)
-[![Project 2 Video]](https://youtu.be/r5O8XvvA4FA)
+#### Project 2: CS290 Portfolio Project(#)
+[![Project 2 Video](https://img.youtube.com/vi/r5O8XvvA4FA/0.jpg)](https://youtu.be/r5O8XvvA4FA)
 
 This portfolio demonstrates a comprehensive web development skill set, featuring a robust web server, user-friendly frontend design, optimized performance, and accessible forms. 
 It integrates Node.js, NPM, and Express for scalable back-end solutions, with JavaScript driving dynamic content and interactive user experiences.
