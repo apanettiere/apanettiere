@@ -5,7 +5,9 @@ I'm a Computer Science student at Oregon State University with a strong passion 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,py,mongodb)](https://skillicons.dev)
 
 ### About Me 
-### [My Website: apanettiere.com]
+
+### [My Website:](apanettiere.com)
+
 - 🌟 Specializing in front-end web development, including responsive design, user experience, and web accessibility.
 - 🔧 Solid understanding of version control tools such as Git.
 - 🎓 Holding an Associate of Arts degree from Santa Fe College.
